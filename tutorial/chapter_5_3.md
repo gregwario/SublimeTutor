@@ -60,14 +60,14 @@ Let's try this in practice now.
 Exercise
 ---------
 
-1. In the exercise block above, select the first line that contains 
-   underscores (Use the word selection command you learned in previous 
-   chapters for that).
-2. Now first press `Cmd + E` so 10 hyphens take the place of find term.
-3. Now go to the fourth line which has series of `tilda` characters in it.
-4. Press `Cmd + D` to select this term.
-5. Press `Cmd + Shift + E`, this copies an empty string in the replace field of
-   replace panel.
-4. Now press `Cmd + Option + E` three times, this should replace all three
-   strings with an empty one.
+1. In the exercise block above, go to the fourth line which has series of 
+   `tilda` characters in it.
+2. Press `Cmd + D` to select this term.
+3. Press `Cmd + Shift + E`, this copies an empty string in the replace field of
+   the replace panel.
+4. Now select the first line that contains underscores (Use the word selection 
+   command you learned in previous chapters for that).
+5. Now first press `Cmd + E` so 10 hyphens take the place of find term.
+6. Now press `Cmd + Option + E` three times, this should replace all three
+   underscore strings with `tilda` strings.
    
